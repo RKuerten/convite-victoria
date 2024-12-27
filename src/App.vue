@@ -74,7 +74,6 @@ h1 {
   width: 300px;
   height: 200px;
   margin: 0 auto;
-
 }
 
 .accept-button {
@@ -92,6 +91,7 @@ button {
 
 button:hover {
   background-color: #f0f0f0;
+  color: #000;
 }
 
 .no-button {
